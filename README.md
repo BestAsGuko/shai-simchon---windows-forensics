@@ -5,3 +5,5 @@ This script was implemented as an addition to the volatility tool found at https
 and bulk_extractor tool at https://github.com/simsong/bulk_extractor.
 
 the script was made froms sevral tools with diffrent licenses, therefor all licenses mention above.
+
+the script was made for my personal portfolio to show my abilities, nothing for business or commercial use.
